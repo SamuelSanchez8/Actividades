@@ -1,0 +1,1 @@
+En la clase AltaDatos.java están los registros y las consultas del requerimiento 2.
